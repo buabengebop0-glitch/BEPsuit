@@ -149,4 +149,5 @@ function buy(productName, price) {
 </script>
 
 </body>
+
 </html>
